@@ -1,0 +1,25 @@
+{
+  "name": "whitelist-system-for-discord",
+  "version": "1.0.0",
+  "description": "security bot to warn and ban a bot entering the server without being whitelisted",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.0.0"    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahg2088/Whitelist-system-for-Discord.git"
+  },
+  "author": "ahg#2088",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahg2088/Whitelist-system-for-Discord/issues"
+  },
+  "homepage": "https://github.com/ahg2088/Whitelist-system-for-Discord#readme"
+}
