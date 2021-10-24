@@ -8,7 +8,9 @@ security bot to warn and ban a bot entering the server without being whitelisted
 ****
 
 1- Instantly ban unauthorized bots.
+
 2- Sends an announcement to the established channel.
+
 3- Command to add bots by id.
 
 ****
